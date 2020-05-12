@@ -477,5 +477,25 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6615586926334941430, guid: ae7b273d46c6da24aaf81ea5445ade8f,
+        type: 3}
+      propertyPath: m_text
+      value: Empty Scene Test
+      objectReference: {fileID: 0}
+    - target: {fileID: 6615586926334941430, guid: ae7b273d46c6da24aaf81ea5445ade8f,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 6615586926334941430, guid: ae7b273d46c6da24aaf81ea5445ade8f,
+        type: 3}
+      propertyPath: m_textInfo.spaceCount
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6615586926334941430, guid: ae7b273d46c6da24aaf81ea5445ade8f,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ae7b273d46c6da24aaf81ea5445ade8f, type: 3}
